@@ -1,0 +1,30 @@
+{
+	"name": "ecommerce-store-server",
+	"version": "1.0.0",
+	"main": "server.js",
+	"license": "MIT",
+	"author": "Hesbon Osoro <hesbonosoro1@gmail.com>",
+	"scripts": {
+		"start": "node server.js",
+		"dev": "nodemon server.js",
+		"format": "prettier --write .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	},
+	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"body-parser": "^1.20.0",
+		"cloudinary": "^1.31.0",
+		"cookie-parser": "^1.4.6",
+		"dotenv": "^16.0.1",
+		"express": "^4.18.1",
+		"express-fileupload": "^1.4.0",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^6.5.3",
+		"nodemailer": "^6.7.8",
+		"stripe": "^10.6.0",
+		"validator": "^13.7.0"
+	}
+}
