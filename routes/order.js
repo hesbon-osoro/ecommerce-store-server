@@ -7,7 +7,7 @@ const {
 	updateOrder,
 	deleteOrder,
 } = require('../controllers/order');
-const { isAuthenticatedUser, authorizeRoles } = require('../middlewares/auth');
+const { isAuthenticatedUser, authorizeRoles } = require('../middleware/auth');
 
 const router = express.Router();
 
