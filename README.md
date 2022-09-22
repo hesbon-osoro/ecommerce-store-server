@@ -39,3 +39,5 @@ yarn start
 ```
 
 [`Client`](https://github.com/hesbon-osoro/ecommerce-store) code
+
+Learn more about the project from this [`Youtube`](https://www.youtube.com/watch?v=AN3t-OmdyKA) channel :)
