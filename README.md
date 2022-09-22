@@ -7,6 +7,11 @@
 - Express
 - MongoDB
 - Stripe
+- JWT
+
+## Setup
+
+Copy the `.env.example` to `.env` and `config/config.env.example` to `config/config.env` and fill the required credentials
 
 ```code
 # Clone the repo
@@ -22,3 +27,5 @@ yarn dev
 # Production mode
 yarn start
 ```
+
+[`Client`](https://github.com/hesbon-osoro/ecommerce-store) code
