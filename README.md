@@ -1,5 +1,7 @@
 # Ecommerce Store
 
+![Ecommerce Store](assets/ecommerce-store.png)
+
 ## Technologies
 
 - React
@@ -7,7 +9,15 @@
 - Express
 - MongoDB
 - Stripe
+- Redux
 - JWT
+- Material-UI
+- React Router DOM
+- Charts
+- Pagination
+- Material-UI-Carousel
+
+and More :)
 
 ## Setup
 
