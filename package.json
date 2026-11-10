@@ -15,7 +15,7 @@
 	},
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
-		"body-parser": "^1.20.0",
+		"body-parser": "^1.20.9",
 		"cloudinary": "^1.31.0",
 		"cookie-parser": "^1.4.6",
 		"dotenv": "^16.0.1",
